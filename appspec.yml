@@ -10,4 +10,4 @@ branch_config:
     main:
         deploymentGroupName: latihanCodedeployGroup
         deploymentGroupConfig:
-            serviceRoleArn: arn:aws:iam::276313926502:role/latihanRoleGroup
+            serviceRoleArn: arn:aws:iam::350251222225:role/latihanRoleGroup
